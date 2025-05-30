@@ -100,4 +100,4 @@ const int positions[][6] = {
 ```
 
 
-credits to [BOB](https://github.com/BOB-The-Battle-Engineer) for the arm desin
+credits to [BOB](https://github.com/BOB-The-Battle-Engineer) for the arm design
