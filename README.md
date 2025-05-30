@@ -98,3 +98,6 @@ const int positions[][6] = {
   {360, 0, 0, 360, 500, 105},     // k - Scissors (for rts)
 };
 ```
+
+
+credits to [BOB](https://github.com/BOB-The-Battle-Engineer) for the arm desin
