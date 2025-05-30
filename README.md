@@ -1,6 +1,11 @@
 # Bionic Hand
 
-This project features a custom-built bionic hand powered by an **Arduino Uno R3**, six **servo motors**, and a combination of **3D-printed** or **handmade parts**.
+This project features a custom-built bionic hand powered by an **Arduino Uno R3**, six **servo motors**, and a combination of custom parts
+
+<p float="left">
+  <img src="images/handtop.jpg" width="45%" />
+  <img src="images/handbottom.jpg" width="45%" />
+</p>
 
 ---
 
@@ -31,8 +36,14 @@ Servos require PWM signals, so connect them to the **PWM-capable pins** on the A
 | 3           | 5       | Thumb            |
 
 
+![Skeleton](images/skeleton.jpg)
+
 ### Recommended Setup:
-Use a **perf board** to create two horizontal rows of header pins for clean wiring.  
+Use a **perf board** to create two horizontal rows of header pins for clean wiring. Like this:
+
+![wire bundle thingy](images/idkwhattoname.jpg)
+
+
 If you prefer, a **breadboard** or a manually **soldered wire bundle** it works.
 
 ---
