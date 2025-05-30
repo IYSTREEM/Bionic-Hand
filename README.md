@@ -1,6 +1,6 @@
 # Bionic Hand
 
-This project features a custom-built bionic hand powered by an **Arduino Uno R3**, six **servo motors**, and a combination of custom parts
+This project features a custom-built bionic hand made using an **Arduino Uno R3**, **six servos**, and a combination of custom parts
 
 <p float="left">
   <img src="images/handtop.jpg" width="45%" />
